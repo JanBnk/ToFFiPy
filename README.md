@@ -1,3 +1,3 @@
 # PyToFFi
 
-This is a repository for implementation of https://github.com/micholeodon/ToFFi_Toolbox ToFFi Toolbox (Frequency-based Fingerprinting) in Python, originally created by @micholeodon in Matlab. 
+This is a repository for implementation of ([ToFFi Toolbox (Frequency-based Fingerprinting) https://github.com/micholeodon/ToFFi_Toolbox] in Python, originally created by ([@micholeodon](https://github.com/micholeodon)) in Matlab. 
